@@ -11,7 +11,7 @@ def quienGana(player, ai):
     elif player == ai:
         return "Empate!"
     else: 
-        return "Perdiste"
+        return "Perdiste."
     
     
 
